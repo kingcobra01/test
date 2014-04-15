@@ -1,2 +1,2 @@
-test
+Initial test
 ====
